@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(225,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(253,19): warning C4267: “-=”: 从“size_t”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(388,55): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(363,4): warning C4101: “res”: 未引用的局部变量
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(518,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(647,30): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1127,79): warning C4244: “参数”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1162,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1413,37): warning C4244: “参数”: 从“unsigned __int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1436,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1437,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(479,19): warning C4101: “id”: 未引用的局部变量
+D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\TinyCalc\main.cpp(1593,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  TinyCalc.vcxproj -> D:\408\基础课程\数据结构\code\lian_biao\TinyCalc\x64\Debug\TinyCalc.exe
